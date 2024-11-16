@@ -27,7 +27,7 @@ REGISTER NUMBER: 212223230043
 ```
 ### Get the input String
 ```python
-string = 'DULQUER'
+string = 'HARINI'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -82,7 +82,8 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/7e45728c-5539-4cb5-a72d-524a0f704406)
+![image](https://github.com/user-attachments/assets/c0fca743-0e37-4afa-adf9-58ec7ff97bc9)
+
 
 
 
